@@ -32,7 +32,7 @@ def findAdmin():
 def Credit():
 	Space(9); print "#####################################"
 	Space(9); print "#   *** Admin Panel Finder ***   #"
-	Space(9); print "#     Script by Mr.W3du5q white Hat   #"
+	Space(9); print "#     Script by Mr.W3du5 white Hat   #"
 	Space(9); print "#    Stay llegal   #"
 	Space(9); print "#####################################"
 
